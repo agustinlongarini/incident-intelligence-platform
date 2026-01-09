@@ -1,0 +1,33 @@
+# ======================
+# General
+# ======================
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# ======================
+# Java / Spring / Gradle
+# ======================
+backend/.gradle/
+backend/build/
+backend/out/
+*.class
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ======================
+# OS
+# ======================
+Thumbs.db
